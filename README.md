@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lazpal
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning lua
+- 📫 How to reach me Discord -> lazarospal
