@@ -38,27 +38,10 @@ Feel free to reach out for inquiries!
 
 ---
 
-## 🌟 Projects
-Here are some of my favorite projects:
-
-1. **[Project Name](#)** - A brief description of the project.
-2. **[Project Name](#)** - A brief description of the project.
-
-Feel free to explore my repositories for more!
-
----
-
 ## 📞 Contact Me
 
 - **Email**: [pallazarosb@gmail.com](mailto:pallazarosb@gmail.com)
 - **Autodesk Profile**: [Visit my Autodesk Profile](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135) *(Refresh upon entry)*
-
----
-
-## 🖼️ Gallery
-
-![Example Image 1](https://via.placeholder.com/150)
-![Example Image 2](https://via.placeholder.com/150)
 
 ---
 
