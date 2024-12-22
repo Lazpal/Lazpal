@@ -47,7 +47,7 @@ Feel free to explore my repositories for more!
 ## 📞 Contact Me
 
 - **Email**: [pallazarosb@gmail.com](mailto:pallazarosb@gmail.com)
-- **autodesk** [[https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135)]
+- **autodesk** [[https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135)] <u>(When you enter, refresh.)</u>
 - 
 
 ---
