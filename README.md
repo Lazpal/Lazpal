@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and 
 </div>
 
 ### 3D Design
-- **Software**:<a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://dalaro.design/wp-content/uploads/2024/03/Fusion-360-Logo-Vector.svg-.png" alt="Fusion 360" width="150" height="auto"></a>
+- **Software**: <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://dalaro.design/wp-content/uploads/2024/03/Fusion-360-Logo-Vector.svg-.png" alt="Fusion 360" width="150" height="auto"></a>
 
 ---
 
