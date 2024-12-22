@@ -19,7 +19,7 @@ Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and 
 </p>
 
 ### 3D Design
-- **Software**: Fusion 360 <img src="https://dalaro.design/wp-content/uploads/2024/03/Fusion-360-Logo-Vector.svg-.png" alt="Fusion 360">
+- **Software**: Fusion 360 <img src="https://dalaro.design/wp-content/uploads/2024/03/Fusion-360-Logo-Vector.svg-.png" alt="Fusion 360" width="auto" height="50%">
 
 ---
 
