@@ -19,7 +19,18 @@ Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and 
 </p>
 
 ### 3D Design
-- **Software**: Fusion 360
+- **Software**: Fusion 360 <img src="[https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black](https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png)" alt="Fusion 360">
+
+---
+
+## 🌟 Services
+
+I offer professional 3D design and printing services! 🖨️
+- Custom CAD modeling
+- Prototyping for 3D printing
+- High-quality 3D prints for personal or professional projects
+
+Feel free to reach out for inquiries!
 
 ---
 
@@ -35,9 +46,9 @@ Feel free to explore my repositories for more!
 
 ## 📞 Contact Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Portfolio**: [Your Portfolio](#)
+- **Email**: [pallazarosb@gmail.com](mailto:pallazarosb@gmail.com)
+- **autodesk** [https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135]
+- 
 
 ---
 
