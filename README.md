@@ -19,7 +19,7 @@ Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and 
 </p>
 
 ### 3D Design
-- **Software**: Fusion 360 <img src="[https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black](https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png)" alt="Fusion 360">
+- **Software**: Fusion 360 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black](https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="Fusion 360">
 
 ---
 
