@@ -42,6 +42,7 @@ Feel free to reach out for inquiries!
 
 - **Email**: [pallazarosb@gmail.com](mailto:pallazarosb@gmail.com)
 - **Autodesk Profile**: [Visit my Autodesk Profile](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135) *(Refresh upon entry)*
+- **Telegram**: [send a message to telegram](https://t.me/LazarosPali)
 
 ---
 
