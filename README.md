@@ -33,6 +33,7 @@ I offer professional 3D design and printing services! 🖨️
 - Custom CAD modeling
 - Prototyping for 3D printing
 - High-quality 3D prints for personal or professional projects
+<a href="https://3d-website-portofolio.glitch.me/"><img src="https://cdn.glitch.global/8fc27695-f665-4282-a0a7-4254974f9880/drone%20v5%20v5.png?v=1737214326142" alt="3d design" width="150" height="auto"></a>
 
 Feel free to reach out for inquiries!
 
