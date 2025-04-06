@@ -6,18 +6,22 @@ Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and 
 
 ## 🛠️ Skills & Tools
 
-### Programming Languages and Skills
+### 🚀 Programming Languages & Tools
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/3D%20Design-Fusion%20360-%23FF6F00.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="3D Design">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/3D%20Design-Fusion%20360-%23FF6F00.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="3D Design"/>
+  <img src="https://img.shields.io/badge/App%20Inventor-%2358599C.svg?style=for-the-badge&logo=app-inventor&logoColor=white" alt="MIT App Inventor"/>
+  <img src="https://img.shields.io/badge/Glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch"/>
+</p>
+
+
 
 ### 3D Design
 - **Software**: <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://nexgensolutions.com/wp-content/uploads/2024/02/2.png" alt="Fusion 360" style="height:85px;"></a>
