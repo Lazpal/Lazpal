@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and 
 </div>
 
 ### 3D Design
-- **Software**: <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://nexgensolutions.com/wp-content/uploads/2024/02/2.png" alt="Fusion 360" width="150" height="auto"></a>
+- **Software**: <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://nexgensolutions.com/wp-content/uploads/2024/02/2.png" alt="Fusion 360" ></a>
 
 ### Programming Software
 - **IDE**: Visual Studio Code
