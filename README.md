@@ -22,8 +22,8 @@ Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and 
 ### 3D Design
 - **Software**: <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://nexgensolutions.com/wp-content/uploads/2024/02/2.png" alt="Fusion 360" style="height:85px;"></a>
 <div style="display: flex; align-items: center;">
-  <p>- **Software**: </p>
-  <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://nexgensolutions.com/wp-content/uploads/2024/02/2.png" alt="Fusion 360" style="height:85px; margin-right: 20px;"></a>
+  <p>- **Software**: <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://nexgensolutions.com/wp-content/uploads/2024/02/2.png" alt="Fusion 360" style="height:85px; margin-right: 20px;"></a></p>
+  
 </div>
 
 
