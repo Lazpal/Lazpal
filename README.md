@@ -57,19 +57,9 @@ Feel free to reach out for inquiries!
 Feel free to connect or collaborate! I’m always excited about new opportunities and projects.
 
 ---
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'BC8S3RFPLQTHN',
-image: {
-src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div>
+## ☕ Support My Work
+
+If you like what I do, consider donating:
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=BC8S3RFPLQTHN)
 
