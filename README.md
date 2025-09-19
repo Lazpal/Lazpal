@@ -35,15 +35,6 @@ I am constantly looking for new challenges and opportunities for development.
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-
-
-### 3D Design
-- **Software**: <a href="https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135"><img src="https://nexgensolutions.com/wp-content/uploads/2024/02/2.png" alt="Fusion 360" style="height:85px;"></a>
-
-
-### Programming Software
-- **IDE**: Visual Studio Code <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source" alt="Visual Studio Code" style="height:85px;">
-
 ---
 
 
