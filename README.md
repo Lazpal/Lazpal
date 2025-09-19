@@ -27,8 +27,12 @@ I am constantly looking for new challenges and opportunities for development.
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/3D%20Design-Fusion%20360-%23FF6F00.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="3D Design"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/App%20Inventor-%2358599C.svg?style=for-the-badge&logo=app-inventor&logoColor=white" alt="MIT App Inventor"/>
   <img src="https://img.shields.io/badge/Glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300972B.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 
