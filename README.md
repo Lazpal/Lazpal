@@ -1,6 +1,16 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile. I'm Lazpal, a passionate Full-Stack Developer and a creative 3D Designer who loves bringing ideas to life with code and design. 🚀
+Welcome to my GitHub profile. I'm Lazaros Paliamaxidis. 🚀
+
+I am a student with a passion for programming, robotics, technology, and 3D design.
+
+I enjoy creating custom solutions for real-world problems, combining imagination with logic.
+
+I have experience in Python, JavaScript, Arduino, web development, and 3D design/printing via Autodesk Fusion 360.
+
+I participate in robotics competitions such as PlaisioBots The Race, while at the same time I am strongly interested in entrepreneurship: I think about how my ideas and projects can be developed into practical applications and services that offer value.
+
+I am constantly looking for new challenges and opportunities for development.
 
 ---
 
