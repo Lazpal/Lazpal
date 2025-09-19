@@ -42,25 +42,14 @@ I am constantly looking for new challenges and opportunities for development.
 
 ---
 
-## 🌟 Services
-
-I offer professional 3D design and printing services! 🖨️
-- Custom CAD modeling
-- Prototyping for 3D printing
-- High-quality 3D prints for personal or professional projects
-  <br>
-<a href="https://3d-website-portofolio.glitch.me/"><img src="https://cdn.glitch.global/8fc27695-f665-4282-a0a7-4254974f9880/drone%20v5%20v5.png?v=1737214326142" alt="3d design" width="150" height="auto"></a>
-
-Feel free to reach out for inquiries!
-
----
 
 ## 📞 Contact Me
 
-- **website for 3d design**: [3d-design-printing](https://3d-design-printing.glitch.me/)
 - **Email**: [pallazarosb@gmail.com](mailto:pallazarosb@gmail.com)
-- **Autodesk Profile**: [Visit my Autodesk Profile](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135) *(Refresh upon entry)*
 - **Telegram**: [send a message to telegram](https://t.me/LazarosPali)
+- **Instagram**: [paliamaxidis_lazaros](https://www.instagram.com/paliamaxidis_lazaros)
+- **Discord**: [lazarospal](https://discord.com/users/649268908901007381)
+- **Autodesk Profile**: [Visit my Autodesk Profile](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135) *(Refresh upon entry)*
 
 ---
 
