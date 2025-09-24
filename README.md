@@ -46,7 +46,6 @@ I am constantly looking for new challenges and opportunities for development.
 - **Discord**: [lazarospal](https://discord.com/users/649268908901007381)
 - **Autodesk Profile**: [Visit my Autodesk Profile](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135) *(Refresh upon entry)*
 - **Autodesk Profile**: [website for 3D Design and Printing](https://lazpal.github.io/3d-design-printing/)
-- 
 
 ---
 
