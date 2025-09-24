@@ -45,7 +45,7 @@ I am constantly looking for new challenges and opportunities for development.
 - **Instagram**: [paliamaxidis_lazaros](https://www.instagram.com/paliamaxidis_lazaros)
 - **Discord**: [lazarospal](https://discord.com/users/649268908901007381)
 - **Autodesk Profile**: [Visit my Autodesk Profile](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135) *(Refresh upon entry)*
-- **Autodesk Profile**: [website for 3D Design and Printing](https://lazpal.github.io/3d-design-printing/)
+- **website for 3D Design and Printing service**: [website](https://lazpal.github.io/3d-design-printing/)
 
 ---
 
