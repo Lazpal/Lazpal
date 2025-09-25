@@ -1,3 +1,5 @@
+<img width="6912" height="3456" alt="lazpal baner" src="https://github.com/user-attachments/assets/6beba603-7bc4-4a99-aa3c-728bb0a40ff8" />
+
 # Hi there! 👋
 
 Welcome to my GitHub profile. I'm Lazaros Paliamaxidis. 🚀
