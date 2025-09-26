@@ -1,4 +1,18 @@
-<img width="6912" height="3456" alt="lazpal baner" src="https://github.com/user-attachments/assets/6beba603-7bc4-4a99-aa3c-728bb0a40ff8" />
+<!-- Banner -->
+<p align="center">
+  <img width="100%" alt="Lazaros Paliamaxidis – Robotics, Programming & 3D Design Banner" src="https://github.com/user-attachments/assets/6beba603-7bc4-4a99-aa3c-728bb0a40ff8" />
+</p>
+
+<h1 align="center">Lazaros Paliamaxidis | Lazpal 🚀</h1>
+<h3 align="center">Robotics • Programming • 3D Design • Practical Tech Solutions</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Lazpal&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Lazpal&style=for-the-badge" alt="Profile views"/></a>
+  <a href="https://github.com/Lazpal?tab=followers"><img src="https://img.shields.io/github/followers/Lazpal?label=Followers&style=for-the-badge" alt="Followers"/></a>
+  <a href="https://github.com/Lazpal?tab=repositories"><img src="https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge" alt="Projects"/></a>
+</p>
+
+---
 
 # Hi there! 👋
 
@@ -39,6 +53,24 @@ I am constantly looking for new challenges and opportunities for development.
 
 ---
 
+## ⭐ Featured Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| DRONE-CITY | Experimental drone / aerial automation concept (simulation or control logic base) | Arduino, Sensors, Python | [Repo](https://github.com/Lazpal/DRONE-CITY) |
+| Pitsas Bank | Learning project simulating basic banking logic (maybe user auth / transactions?) | JS / (adjust details) | [Repo](https://github.com/Lazpal/pitsas-bank) |
+| proionta-promitheutes | Product–supplier relation management experiment | (Add stack) | [Repo](https://github.com/Lazpal/proionta-promitheutes) |
+
+(Feel free to give me more details and I’ll sharpen the descriptions.)
+
+---
+
+## 🌐 3D Design & Printing
+I also offer a 3D design and printing service:  
+➡️ [Visit the site](https://lazpal.github.io/3d-design-printing/)  
+Feel free to request custom part designs.
+
+---
 
 ## 📞 Contact Me
 
@@ -48,6 +80,19 @@ I am constantly looking for new challenges and opportunities for development.
 - **Discord**: [lazarospal](https://discord.com/users/649268908901007381)
 - **Autodesk Profile**: [Visit my Autodesk Profile](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/12083135) *(Refresh upon entry)*
 - **website for 3D Design and Printing service**: [website](https://lazpal.github.io/3d-design-printing/)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lazpal&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazpal&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com/?user=Lazpal&theme=tokyonight" alt="Commit Streak"/>
+</p>
 
 ---
 
