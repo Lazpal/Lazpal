@@ -59,7 +59,6 @@ I am constantly looking for new challenges and opportunities for development.
 |---------|-------------|------|-------|
 | DRONE-CITY | Experimental drone / aerial automation concept | Arduino, Sensors, AI Camera, JS, API, WEB APP, Mobile APP | [Repo](https://github.com/Lazpal/DRONE-CITY) |
 | Pitsas Bank | Learning project simulating basic banking logic user auth / transactions | WEB APP, JS, Database | [Repo](https://github.com/Lazpal/pitsas-bank) |
-| proionta-promitheutes | Product–supplier relation management experiment | WEB APP, Sqlite, JS | [Repo](https://github.com/Lazpal/proionta-promitheutes) |
 
 (Feel free to give me more details and I’ll sharpen the descriptions.)
 
