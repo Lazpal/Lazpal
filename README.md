@@ -66,9 +66,16 @@ I am constantly looking for new challenges and opportunities for development.
 ---
 
 ## 🌐 3D Design & Printing
+  
+  <a href="https://lazpal.github.io/3d-design-printing/"><img src="https://github.com/Lazpal/3d-design-printing/blob/main/DRONE%20CITY%20CASE%20V9%20LAST%20v5%20l.png?raw=true" alt="Lazpal 3D Design & Printing Logo" width="160" /></a>
+
 I also offer a 3D design and printing service:  
 ➡️ [Visit the site](https://lazpal.github.io/3d-design-printing/)  
 Feel free to request custom part designs.
+<p align="center">
+  <a href="https://lazpal.github.io/3d-design-printing/"><img src="https://img.shields.io/badge/Visit%20Service%20Site-FF6F00?style=for-the-badge&logoColor=white" alt="Visit service"/></a>
+  <a href="https://lazpal.github.io/3d-design-printing/contact.html"><img src="https://img.shields.io/badge/Request%20a%20Design-0078D4?style=for-the-badge&logoColor=white" alt="Request a design"/></a>
+</p>
 
 ---
 
