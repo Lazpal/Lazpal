@@ -3,7 +3,7 @@
   <img width="100%" alt="Lazaros Paliamaxidis – Robotics, Programming & 3D Design Banner" src="https://github.com/user-attachments/assets/6beba603-7bc4-4a99-aa3c-728bb0a40ff8" />
 </p>
 
-<h1 align="center">Lazaros Paliamaxidis | Lazpal 🚀</h1>
+<h1 align="center">Lazaros Paliamaxidis | Lazpal </h1>
 <h3 align="center">Robotics • Programming • 3D Design • Practical Tech Solutions</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile. I'm Lazaros Paliamaxidis. 🚀
+Welcome to my GitHub profile. I'm Lazaros Paliamaxidis. 
 
 I am a student with a passion for programming, robotics, technology, and 3D design.
 
@@ -32,7 +32,7 @@ I am constantly looking for new challenges and opportunities for development.
 
 ## 🛠️ Skills & Tools
 
-### 🚀 Programming Languages & Tools
+###  Programming Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
