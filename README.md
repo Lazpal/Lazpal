@@ -1,8 +1,8 @@
-<!-- Banner -->
+<!-- Banner 
 <p align="center">
   <img width="100%" alt="Lazaros Paliamaxidis – Robotics, Programming & 3D Design Banner" src="https://github.com/user-attachments/assets/6beba603-7bc4-4a99-aa3c-728bb0a40ff8" />
 </p>
-
+-->
 <h1 align="center">Lazaros Paliamaxidis | Lazpal </h1>
 <h3 align="center">Robotics • Programming • 3D Design • Practical Tech Solutions</h3>
 
@@ -52,7 +52,7 @@ I am constantly looking for new challenges and opportunities for development.
 </p>
 
 ---
-
+<!--
 ## ⭐ Featured Projects
 
 | Project | Description | Tech | Links |
@@ -63,7 +63,7 @@ I am constantly looking for new challenges and opportunities for development.
 (Feel free to give me more details and I’ll sharpen the descriptions.)
 
 ---
-
+-->
 ## 🌐 3D Design & Printing
   
   <a href="https://lazpal.github.io/3d-design-printing/"><img src="https://github.com/Lazpal/3d-design-printing/blob/main/DRONE%20CITY%20CASE%20V9%20LAST%20v5%20l.png?raw=true" alt="Lazpal 3D Design & Printing Logo" width="160" /></a>
