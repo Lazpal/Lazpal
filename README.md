@@ -47,6 +47,7 @@ I am constantly looking for new challenges and opportunities for development.
   <img src="https://img.shields.io/badge/App%20Inventor-%2358599C.svg?style=for-the-badge&logo=app-inventor&logoColor=white" alt="MIT App Inventor"/>
   <img src="https://img.shields.io/badge/Glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch"/>
   <img src="https://img.shields.io/badge/Arduino-%2300972B.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/esp-%234479A1.svg?style=for-the-badge&logo=esp&logoColor=white" alt="ESP"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
