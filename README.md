@@ -22,9 +22,9 @@ I am a student with a passion for programming, robotics, technology, and 3D desi
 
 I enjoy creating custom solutions for real-world problems, combining imagination with logic.
 
-I have experience in Python, JavaScript, Arduino, web development, and 3D design/printing via Autodesk Fusion 360.
+I have experience in Python, JavaScript, Arduino-esp, web development, and 3D design/printing via Autodesk Fusion 360 on Creality Printer and Slicer.
 
-I participate in robotics competitions such as PlaisioBots The Race, while at the same time I am strongly interested in entrepreneurship: I think about how my ideas and projects can be developed into practical applications and services that offer value.
+I participate in robotics competitions such as [PlaisioBots The Race](https://www.plaisio.gr/campaign/plaisiobots), while at the same time I am strongly interested in entrepreneurship: I think about how my ideas and projects can be developed into practical applications and services that offer value.
 
 I am constantly looking for new challenges and opportunities for development.
 
